@@ -1,46 +1,5 @@
-<document xml:lang="kmr" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>299</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="kmr"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/Li-ser-UMO</origFileName>
-    <parallel_text xml:lang="eng" location="about-umo.html"/>
-    <parallel_text xml:lang="fin" location="umosta.html"/>
-    <parallel_text xml:lang="rus" location="o-umo.html"/>
-    <parallel_text xml:lang="swe" location="om-umo.html"/>
-    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
-    <parallel_text location="umo.html" xml:lang="ara"/>
-    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
-    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
-    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
-    <parallel_text location="persiska.html" xml:lang="fas"/>
-    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Li ser UMO (kurdiska, kormanji)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Li ser UMO (kurdiska, kormanji)</p>
-    <p xml:lang="swe">UMO muayenexaneyeke neteweyî ya internetê ye û ji bo ciwanên navbera 13 û 25 salîyan e. Mebesta malperê ew e ku ciwan hêsantir karibin agahdarîyên girîng, pêwendîdar û bi kalîte li ser seks, tenduristî û têkiliyan peyda bikin. UMO hewl dide ku ji bo ciwanan bi heman merc û şertan îmkanên wekhevî pêk bîne û herweha ji wan re cih û derfetên libt û tevgerînê zêdetir bike. UMO dixwaze zanîn û îmkana fikrê bide xortan da ew, çi li mal, çi li dibistanê, çi li kar û çi jî di pêwendîyen bi derûdorên xwe re, dikaribin li ser rewşa xwe tesîrê bikin. Ji xwe bi saya zanîna maf û erkên xwe îmkana meriv ya xwe bixwe biryardana li ser jiyana xwe zêdetir dibe. Daxwaz û armanca malpêrê ew e ku ciwan xwe di xebata UMOyê de beşdar bibînin û ew wê weke malpera xwe bipejirînin. Di malperê de bi çavekî gumanbar û pirsewarî li normên aktuel tê nihêrtin. UMO giranîyeke mezin jî dide zûpeydakirina malperê û ji bo wê jî pisporek hatiye vebuhtîkirin. Bipêşvebirina UMOyê li ser fermana wezareta karûbarên întegrasyon û wekhevîyê, ji aliyê Midurîyeta giştî ya Karûbarên Civakî ve hatiye finansekirin. Meclîsa welayetê û belediye jî berprisiyarên kargêrîya malpera UMOyê ne. Bipêşdebirina UMOyê bi hevkarîyeke nêzîk di navbera ciwanên li Swêd, muayenexaneyên cuwanan, lênerêna tendurstîyê ya dibistanan, rêxistinên berjewendîparêz û yên din ku bi ciwanan re kar dikin, pêk tê.</p>
-    <p xml:lang="swe">Naveroka malpera UMOyê bi zimanê swêdî ye û heta vêga tu materîyal bo zimanekî din ne hatiye wergerandin. Mixabin ku tu agahên me karkerên UMO li ser amûretên wergerandina ji swêdî bo kurdî nînin. Ger agahên we di vî warî de hebin, fermo ji me re mailekê bişênin vê derê: redaktionen@umo.se .</p>
-  </body>
-</document>
+<document xml:lang="kmr" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>294</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="kmr"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Om-UMO/Li-ser-UMO</origFileName><parallel_text xml:lang="eng" location="about-umo.html"/><parallel_text xml:lang="fin" location="umosta.html"/><parallel_text xml:lang="rus" location="o-umo.html"/><parallel_text xml:lang="swe" location="om-umo.html"/><parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/><parallel_text location="umo.html" xml:lang="ara"/><parallel_text location="sobre-umo.html" xml:lang="spa"/><parallel_text location="umo-en-francais.html" xml:lang="fra"/><parallel_text location="umo-hakknda.html" xml:lang="tur"/><parallel_text location="persiska.html" xml:lang="fas"/><parallel_text location="o-umo-polska.html" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Li ser UMO (kurdiska, kormanji)</p>
+<p type="title" xml:lang="swe">Li ser UMO (kurdiska, kormanji)</p>
+<p xml:lang="swe">UMO muayenexaneyeke neteweyî ya internetê ye û ji bo ciwanên navbera 13 û 25 salîyan e. Mebesta malperê ew e ku ciwan hêsantir karibin agahdarîyên girîng, pêwendîdar û bi kalîte li ser seks, tenduristî û têkiliyan peyda bikin. UMO hewl dide ku ji bo ciwanan bi heman merc û şertan îmkanên wekhevî pêk bîne û herweha ji wan re cih û derfetên libt û tevgerînê zêdetir bike. UMO dixwaze zanîn û îmkana fikrê bide xortan da ew, çi li mal, çi li dibistanê, çi li kar û çi jî di pêwendîyen bi derûdorên xwe re, dikaribin li ser rewşa xwe tesîrê bikin. Ji xwe bi saya zanîna maf û erkên xwe îmkana meriv ya xwe bixwe biryardana li ser jiyana xwe zêdetir dibe. Daxwaz û armanca malpêrê ew e ku ciwan xwe di xebata UMOyê de beşdar bibînin û ew wê weke malpera xwe bipejirînin. Di malperê de bi çavekî gumanbar û pirsewarî li normên aktuel tê nihêrtin. UMO giranîyeke mezin jî dide zûpeydakirina malperê û ji bo wê jî pisporek hatiye vebuhtîkirin. Bipêşvebirina UMOyê li ser fermana wezareta karûbarên întegrasyon û wekhevîyê, ji aliyê Midurîyeta giştî ya Karûbarên Civakî ve hatiye finansekirin. Meclîsa welayetê û belediye jî berprisiyarên kargêrîya malpera UMOyê ne. Bipêşdebirina UMOyê bi hevkarîyeke nêzîk di navbera ciwanên li Swêd, muayenexaneyên cuwanan, lênerêna tendurstîyê ya dibistanan, rêxistinên berjewendîparêz û yên din ku bi ciwanan re kar dikin, pêk tê.</p>
+<p xml:lang="swe">Naveroka malpera UMOyê bi zimanê swêdî ye û heta vêga tu materîyal bo zimanekî din ne hatiye wergerandin. Mixabin ku tu agahên me karkerên UMO li ser amûretên wergerandina ji swêdî bo kurdî nînin. Ger agahên we di vî warî de hebin, fermo ji me re mailekê bişênin vê derê: redaktionen@umo.se .</p>
+</body></document>
